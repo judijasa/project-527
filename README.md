@@ -1,3 +1,11 @@
 # My github repository for my github-pages website:
 # judijasa.github.io
 # tutorial: https://learntocodewith.me/tutorials/github-pages/
+
+# Other tutorials
+
+# structuring a website
+# http://webstyleguide.com/wsg3/3-information-architecture/3-site-structure.html
+
+# Naming website files
+# https://www.thoughtco.com/naming-html-files-3466503
