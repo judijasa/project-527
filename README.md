@@ -2,9 +2,9 @@
 # judijasa.github.io
 # tutorial: https://learntocodewith.me/tutorials/github-pages/
 
-# Other tutorials
+# Other tutorials:
 
-# structuring a website
+# Structuring a website
 # http://webstyleguide.com/wsg3/3-information-architecture/3-site-structure.html
 
 # Naming website files
