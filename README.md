@@ -1,4 +1,4 @@
-# My github repository for my github-pages website:
+# This is my github repository for my github-pages website:
 # judijasa.github.io
 # 
 # Tutorial: https://learntocodewith.me/tutorials/github-pages/
